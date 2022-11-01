@@ -199,8 +199,8 @@ ul.row {
 }
 
 .row::after {
-  content: none;
+  content: "";
   float: none;
   display: table;
-  clear: none;
+  clear: both;
 }
