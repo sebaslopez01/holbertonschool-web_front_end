@@ -281,7 +281,7 @@ ul.row {
 }
 
 .section-hero {
-  background-size: 2;
+  background-size: 100% 100%;
   width: 90rem;
   height: auto;
 }
@@ -291,5 +291,5 @@ ul.row {
 }
 
 .section-hero .section-inner {
-  padding: 10rem, 40rem, 2rem, 0;
+  padding: 10rem 40rem 2rem 0;
 }
